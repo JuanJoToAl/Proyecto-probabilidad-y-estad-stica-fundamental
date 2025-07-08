@@ -1,1 +1,1 @@
-# Proyecto-probabilidad-y-estad-stica-fundamental
+# Proyecto probabilidad y estadística fundamental
